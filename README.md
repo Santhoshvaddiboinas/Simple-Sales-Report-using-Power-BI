@@ -2,6 +2,8 @@
 This repository features an interactive Power BI Dashboard designed to analyze and visualize sales data for insightful business decisions. Below are preview screenshots of the dashboard and key highlights from the report.
 
 **Dashboard Overview:**
+
+
 KPI Cards:
 
 Total Sales
