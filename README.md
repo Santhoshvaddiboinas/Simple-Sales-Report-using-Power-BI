@@ -1,68 +1,70 @@
-Sales Data Analysis Power BI Project
-This repository contains a Power BI report and supporting resources for analyzing a comprehensive sales dataset. The analysis covers multiple segments, countries, and products, and focuses on uncovering sales trends, profit drivers, and the impact of discounts.
+**Power BI Sales Data Analysis Dashboard**
+This repository features an interactive Power BI Dashboard designed to analyze and visualize sales data for insightful business decisions. Below are preview screenshots of the dashboard and key highlights from the report.
 
-Dataset Overview
-The dataset includes the following key columns:
+**Dashboard Overview:**
+KPI Cards:
 
-Segment
-
-Country
-
-Product
-
-Discount Band
-
-Units Sold
-
-Manufacturing Price
-
-Sale Price
+Total Sales
 
 Gross Sales
 
-Discounts
+Total Profit
 
-Sales (Net Sales)
+Total Sale Price
 
-COGS (Cost of Goods Sold)
+**Sales Trends:**
 
-Profit
+Line and scatter plots to analyze sales and gross sales by month.
 
-Date, Month, Year
+Visualize the distribution of sales and profit across months for seasonality analysis.
 
-Analysis Goals
-Track overall sales and profit trends across time, countries, and product segments.
+**Product & Country Performance:**
 
-Visualize the effect of discount bands on sales and profitability.
+Table visualizing top products by sales and profit.
 
-Identify top-performing products and countries.
+Pie and bar charts showing sales and profit contributions by country and business segment.
 
-Study seasonal trends using monthly and yearly breakdowns.
+**Discount Insights:**
 
-Enable interactive exploration with filters/slicers in the Power BI dashboard.
+Bar chart analyzing profit by discount band.
 
-Key Visuals and KPIs in Power BI
-Total Sales & Profit Cards: Quick view of overall performance.
+Comparison of profit and total discounts by country.
 
-Sales Trends Over Time: Line/area charts showing changes by month/year.
+**Map Visualizations:**
 
-Sales by Country/Segment: Bar and map visuals for geographic performance.
+Geographical distribution of sales and profit by segment and country.
 
-Top Products: Product-wise analysis for sales and margins.
+**Interactive Filtering:**
 
-Discount Impact: analyze how discounts affect sales and profit.
+Segment slicers for dynamic data exploration by Channel Partners, Enterprise, Government, Midmarket, and Small Business.
 
-Seasonal Patterns: Monthly charts to review peak and low periods.
+Usage
+Download the .pbix Power BI file from this repository (if available).
 
-How to Use
-Download the Power BI file (.pbix) from this repo.
+Open the file using Power BI Desktop.
 
-Open with Power BI Desktop.
+Interact with the dashboard by using slicers to filter by segment, month, and region.
 
-Explore visuals and interact using slicers (Country, Product, Year, etc.).
+**Insights Uncovered**
+**Monthly Sales Trends:** Identification of high and low sales/profit months for business planning.
 
-Contribution
-Pull requests are welcome! Feel free to add more analyses, enrich with external datasets, or propose advanced visualizations.
+**Best Performing Segments and Countries:** Clear breakdown by region and customer segment for targeted strategies.
+
+**Discount Analysis:** Better understanding of discount impacts on overall profit.
+
+Product Analysis: Discovering top products contributing majorly to sales and profit.
+
+Screenshots
+Main dashboard and supporting visualizations are included above for a quick preview of the report’s structure and insights.
+
+
+<img width="650" height="372" alt="Screenshot 2025-11-10 201958" src="https://github.com/user-attachments/assets/d3b4504c-ec4a-41e2-b1ff-a03727e4d5ad" />
+
+
+
 
 License
+This project is open-source and available under the MIT License.
+
+Feel free to contribute further analyses or suggestions by submitting a pull request!
 This project is open-source under the MIT License
