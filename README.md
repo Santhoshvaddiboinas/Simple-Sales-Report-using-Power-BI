@@ -62,6 +62,7 @@ Main dashboard and supporting visualizations are included above for a quick prev
 
 
 
+<img width="632" height="358" alt="Screenshot 2025-11-10 202013" src="https://github.com/user-attachments/assets/268ebe5a-93b0-40ec-ad44-4de83ab30659" />
 
 License
 This project is open-source and available under the MIT License.
